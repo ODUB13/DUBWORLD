@@ -1,0 +1,64 @@
+
+
+body {
+  color: #000080;
+  background: #ffffff;
+}
+
+li {
+  color: #000080;
+}
+
+a {
+  color: purple;
+}
+
+a:visited {
+  color:red;
+}
+
+span {
+  font-size: 34px;
+}
+span2 {
+  font-size: 12px;
+}
+
+#top {
+  font-weight: bold;
+  text-align: center;
+  color: #000080;
+}
+
+div div {
+  font-size: 12px;
+  color: #000080;
+}
+
+#geico {
+  text-align: center;
+  font-size: 14px;
+}
+
+
+#contact {
+  font-size: 13px;
+}
+
+#copyright {
+  font-size: 10px;
+}
+
+sub {
+  font-size: 10px;
+}
+
+table {
+  width: 90%;
+}
+
+
+td {
+  height: 55px;
+  width: 50%;
+}
